@@ -46,12 +46,39 @@
 		<Metadata name="Catalog.Т_БрокерскиеСчета.ManagerModule" id="85172ca3-c81e-43d8-994a-70450f1c835a.3" configVersion="19473b55a73ffc4bbe4f9060367b903400000000"/>
 		<Metadata name="Catalog.Т_БрокерскиеСчета.ObjectModule" id="85172ca3-c81e-43d8-994a-70450f1c835a.0" configVersion="a9d20a2bd8618d41bc3fc770b89dcae600000000"/>
 		<Metadata name="Catalog.Т_БрокерскиеСчета.Predefined" id="85172ca3-c81e-43d8-994a-70450f1c835a.1c" configVersion="39eaa6f8f57a124a9923b9b53464c64f00000000"/>
+		<Metadata name="Catalog.Т_Подключения" id="c2baf15b-9dde-4a12-8c55-428050d2f97b" configVersion="288bd6792e31c54e9866461e08ea7f0b00000000">
+			<Metadata name="Catalog.Т_Подключения.Attribute.Адрес" id="3643cdf1-abb3-4440-ab42-a3f2d4a874c9"/>
+			<Metadata name="Catalog.Т_Подключения.Attribute.Токен" id="b65a0e68-7b48-4c05-ba5e-145e16b1140b"/>
+		</Metadata>
 		<Metadata name="Catalog.Т_ЦенныеБумаги" id="1f31d57a-3d26-4b16-b82d-c370439a609d" configVersion="0dcc6d6c6423024083e7ece44129e8a800000000"/>
 		<Metadata name="Catalog.Т_ЦенныеБумаги.Help" id="1f31d57a-3d26-4b16-b82d-c370439a609d.1" configVersion="f012a2fc539a85488899b7afb9f894f100000000"/>
 		<Metadata name="Catalog.Т_ЦенныеБумаги.ManagerModule" id="1f31d57a-3d26-4b16-b82d-c370439a609d.3" configVersion="7e441f183741404a8a05e7268a59b4bc00000000"/>
 		<Metadata name="Catalog.Т_ЦенныеБумаги.ObjectModule" id="1f31d57a-3d26-4b16-b82d-c370439a609d.0" configVersion="98c41721ae96f74e8b56d399d8a1f6fc00000000"/>
 		<Metadata name="Catalog.Т_ЦенныеБумаги.Predefined" id="1f31d57a-3d26-4b16-b82d-c370439a609d.1c" configVersion="ad2d38b26ea26b49bf2f17ae1d12660300000000"/>
-		<Metadata name="Configuration.Тинькофф_API" id="bcb828e2-f061-40e1-be06-a28fb99a2e0b" configVersion="106ae27513d4c347a6643512a6eea25800000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="182d736d-65eb-4562-b589-12a32b7b7a08" configVersion="e64a2b526e8099409da2faa35c3f37b800000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="182d736d-65eb-4562-b589-12a32b7b7a08.0" configVersion="4703c470de58bd4a83bc9377b105d8d000000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер" id="cc20f0a8-320f-4779-b455-f8cc5318b6cc" configVersion="f477971a08c9b1479fd489364afb762c00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер.Module" id="cc20f0a8-320f-4779-b455-f8cc5318b6cc.0" configVersion="4679aa9952d9624f94a35c31eda88cb600000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияСлужебныйКлиент" id="ae8cd0d2-01db-4ad6-877e-2ea255809a86" configVersion="ea7bba4f66276b4ca4c5b837091d0fb200000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияСлужебныйКлиент.Module" id="ae8cd0d2-01db-4ad6-877e-2ea255809a86.0" configVersion="bed82d4e02dda441b1999fc2ae4a560200000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияСлужебныйКлиентСервер" id="0d261bf7-e359-45ec-b6bc-a891e450a7bd" configVersion="7c3b94bbd7cdb64b80eac98d27eb9b6100000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияСлужебныйКлиентСервер.Module" id="0d261bf7-e359-45ec-b6bc-a891e450a7bd.0" configVersion="f1f5bc8adfa26a49ae24d0b23d2b74ed00000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиентСерверЛокализация" id="c582e978-cada-4ac6-a5f1-dfc35b4fd049" configVersion="638ea1233f88b146992297825251944000000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиентСерверЛокализация.Module" id="c582e978-cada-4ac6-a5f1-dfc35b4fd049.0" configVersion="ff9ab68f397f8c4880a21b02b431a8a600000000"/>
+		<Metadata name="CommonModule.СтроковыеФункции" id="06f14f79-8541-41d9-9330-0840a49a5443" configVersion="8d461583b8c4ae42b45f41bd0a15cbc300000000"/>
+		<Metadata name="CommonModule.СтроковыеФункции.Module" id="06f14f79-8541-41d9-9330-0840a49a5443.0" configVersion="2cabeb2f8c70894493c90c1d66e3b46a00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииБЗККлиентСервер" id="69c2b985-3927-4e92-bb7c-32d24b279453" configVersion="35ea37fbebc9c84b94a75781e9c3f82f00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииБЗККлиентСервер.Module" id="69c2b985-3927-4e92-bb7c-32d24b279453.0" configVersion="8dcb453389bb144b8418845ed8325d0b00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиент" id="d814764b-9277-4666-844b-40df9dfc54fc" configVersion="895526ac31c4d145b1213a03d99deacf00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиент.Module" id="d814764b-9277-4666-844b-40df9dfc54fc.0" configVersion="16d37a31d83a044386a0fe85c914591b00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="8e626b62-4955-437d-8ec5-bd98139fa569" configVersion="d54eae0a58dc61419c5bc2d991b3d70100000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="8e626b62-4955-437d-8ec5-bd98139fa569.0" configVersion="9dfb85a4b386994c9f7bb55ea198bc9400000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСерверРФ" id="ff7666af-4053-40ff-bd95-b6852b5e3a32" configVersion="9d86f2a2f63e5e4c999b313ab5a4c16e00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСерверРФ.Module" id="ff7666af-4053-40ff-bd95-b6852b5e3a32.0" configVersion="33f9532276423540abc0bc60db3cc31400000000"/>
+		<Metadata name="Configuration.Тинькофф_API" id="bcb828e2-f061-40e1-be06-a28fb99a2e0b" configVersion="4897f8847640194daddd1f2c990f4eb000000000"/>
+		<Metadata name="DataProcessor.ОбменСТинькофф" id="a376af09-fec3-4708-92f7-5b17ada54e7a" configVersion="ea5d980344da8a45be6b1407b1a27d3c00000000"/>
+		<Metadata name="DataProcessor.ОбменСТинькофф.Form.Форма" id="e7c5a2bd-78b9-42e1-ba7a-d83a01bb93d5" configVersion="ad68c65c4f6ac9449a05a7e097641f9200000000"/>
+		<Metadata name="DataProcessor.ОбменСТинькофф.Form.Форма.Form" id="e7c5a2bd-78b9-42e1-ba7a-d83a01bb93d5.0" configVersion="302577c6738b2547ababd880d934fef400000000"/>
 		<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету" id="3891ebcc-47de-4741-85c2-6a2297c55544" configVersion="3cd468a18c50f141a27121743540dcfd00000000">
 			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.positionUid" id="03a7d2a0-7436-4847-a9f0-4da5c6b26693"/>
 			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.type" id="07173ad8-8bf0-48c7-9a40-6ade69aa8fc4"/>
@@ -85,7 +112,7 @@
 		<Metadata name="Language.Русский" id="a7132243-de8c-48da-83f8-36fa34db0593" configVersion="664a1c3400d8c14e9e728d2ffd5037b500000000"/>
 		<Metadata name="Role.Т_ОсновнаяРоль" id="65fe5c9b-af21-4970-bff8-767582a47f32" configVersion="d2f8f5c86b347444b468e119b061c8d200000000"/>
 		<Metadata name="Role.Т_ОсновнаяРоль.Rights" id="65fe5c9b-af21-4970-bff8-767582a47f32.0" configVersion="5fe87f7e755ca34bbb8589ce7976ebe300000000"/>
-		<Metadata name="Subsystem.Тинькофф" id="d4fe099d-e730-4e6a-a720-f7fb5d655eea" configVersion="fcf2a99ff594214793c304bbd8537d1e00000000"/>
+		<Metadata name="Subsystem.Тинькофф" id="d4fe099d-e730-4e6a-a720-f7fb5d655eea" configVersion="34e40235c050c24bb71b231a77d04c4000000000"/>
 		<Metadata name="Subsystem.Тинькофф.CommandInterface" id="d4fe099d-e730-4e6a-a720-f7fb5d655eea.1" configVersion="456e4049a0e3b845ae776f0717c9667f00000000"/>
 		<Metadata name="Subsystem.Тинькофф.Help" id="d4fe099d-e730-4e6a-a720-f7fb5d655eea.0" configVersion="d2836c86149b5240b96cb154e3a6ac3800000000"/>
 	</ConfigVersions>

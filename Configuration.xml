@@ -248,11 +248,23 @@
 			<Language>Русский</Language>
 			<Subsystem>Тинькофф</Subsystem>
 			<Role>Т_ОсновнаяРоль</Role>
+			<CommonModule>ОбщегоНазначения</CommonModule>
+			<CommonModule>ОбщегоНазначенияСлужебныйКлиентСервер</CommonModule>
+			<CommonModule>ОбщегоНазначенияСлужебныйКлиент</CommonModule>
+			<CommonModule>СтроковыеФункции</CommonModule>
+			<CommonModule>СтроковыеФункцииБЗККлиентСервер</CommonModule>
+			<CommonModule>СтроковыеФункцииКлиент</CommonModule>
+			<CommonModule>СтроковыеФункцииКлиентСервер</CommonModule>
+			<CommonModule>СтроковыеФункцииКлиентСерверРФ</CommonModule>
+			<CommonModule>СтандартныеПодсистемыКлиентСерверЛокализация</CommonModule>
+			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Т_БрокерскиеСчета</Catalog>
 			<Catalog>Т_OperationTypes</Catalog>
 			<Catalog>Т_ЦенныеБумаги</Catalog>
+			<Catalog>Т_Подключения</Catalog>
 			<Document>Т_ОперацияПоБрокерскомуСчету</Document>
+			<DataProcessor>ОбменСТинькофф</DataProcessor>
 			<InformationRegister>Т_СоответствиеВалют</InformationRegister>
 		</ChildObjects>
 	</Configuration>

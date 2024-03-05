@@ -22,6 +22,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Т_ЦенныеБумаги</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.Т_ОперацияПоБрокерскомуСчету</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.Т_СоответствиеВалют</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ОбменСТинькофф</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Т_Подключения</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
