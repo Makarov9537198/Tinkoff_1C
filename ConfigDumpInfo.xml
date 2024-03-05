@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Catalog.Валюты" id="d5aacf85-14fb-42e6-90ca-d64bcbe74807" configVersion="5fc753eb305c1a489327624ac26f39b400000000">
+			<Metadata name="Catalog.Валюты.Attribute.ФормулаРасчетаКурса" id="0710c7c0-164e-4f26-be05-dfdc3fdd038f"/>
+			<Metadata name="Catalog.Валюты.Attribute.Наценка" id="10a67c34-96cb-498c-a2fd-b5ec7d65eacc"/>
+			<Metadata name="Catalog.Валюты.Attribute.РеквизитДопУпорядочивания" id="3a313b27-5f0d-4e8c-a2d9-44f0aab18a26"/>
+			<Metadata name="Catalog.Валюты.TabularSection.Представления.Attribute.КодЯзыка" id="4c5c1e75-1eaa-425c-966b-92ec2f6f01a4"/>
+			<Metadata name="Catalog.Валюты.Attribute.ПараметрыПрописи" id="697440cd-7e07-4da2-8158-537b8c907d14"/>
+			<Metadata name="Catalog.Валюты.Attribute.ОсновнаяВалюта" id="7d03faa1-e7f3-487c-a418-3b43ff2ec242"/>
+			<Metadata name="Catalog.Валюты.TabularSection.Представления" id="999f955b-47b8-4481-8d1c-eaa0c9586e7c"/>
+			<Metadata name="Catalog.Валюты.Attribute.СпособУстановкиКурса" id="a76bc9aa-2b5a-41dc-90e4-ddc22a9d8764"/>
+			<Metadata name="Catalog.Валюты.TabularSection.Представления.Attribute.ПараметрыПрописи" id="b6049a4b-f52b-4971-b7ba-e2f90d844039"/>
+			<Metadata name="Catalog.Валюты.Attribute.НаименованиеПолное" id="c3f4da3b-309e-461a-b44e-07936316ce6b"/>
+			<Metadata name="Catalog.Валюты.Attribute.ЗагружаетсяИзИнтернета" id="fe3349ea-896d-4a11-84f8-1b1a174e78f2"/>
+		</Metadata>
+		<Metadata name="Catalog.Валюты.Form.ПараметрыПрописиВалюты_en" id="a2611fc9-80d5-4f70-82e8-d38d5fbeafa9" configVersion="ccb5a6703accb049a9e968a92449dbd900000000"/>
+		<Metadata name="Catalog.Валюты.Form.ПараметрыПрописиВалюты_en.Form" id="a2611fc9-80d5-4f70-82e8-d38d5fbeafa9.0" configVersion="3b116853d070e84ba10845dc3806222500000000"/>
+		<Metadata name="Catalog.Валюты.Form.ПараметрыПрописиВалюты_en.Help" id="a2611fc9-80d5-4f70-82e8-d38d5fbeafa9.1" configVersion="c21d65fa75222c4c8aa71e07712e278f00000000"/>
+		<Metadata name="Catalog.Валюты.Form.ПараметрыПрописиВалютыНаДругихЯзыках" id="73c73e7e-b826-4acf-87e5-d27a547f65f9" configVersion="013352795ba2eb4e95a3b3942bae4b7e00000000"/>
+		<Metadata name="Catalog.Валюты.Form.ПараметрыПрописиВалютыНаДругихЯзыках.Form" id="73c73e7e-b826-4acf-87e5-d27a547f65f9.0" configVersion="05e68dbbce738f45848d90cfd7fdacee00000000"/>
+		<Metadata name="Catalog.Валюты.Form.ПараметрыПрописиВалютыНаДругихЯзыках.Help" id="73c73e7e-b826-4acf-87e5-d27a547f65f9.1" configVersion="bff3e9e7b0782e4c928c5b1afe72e4c900000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаСписка" id="a1b3a7e0-78d7-4e9a-843c-f3e035da4a84" configVersion="476514e343b4ed4cb69892c917431d5100000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаСписка.Form" id="a1b3a7e0-78d7-4e9a-843c-f3e035da4a84.0" configVersion="4767a7c41f653348888bbdc53d955b9400000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаСписка.Help" id="a1b3a7e0-78d7-4e9a-843c-f3e035da4a84.1" configVersion="26f0ca34d85f77439f375fe74c7b967b00000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаЭлемента" id="02735c1f-cf68-4ba5-ac47-b6f5d61a2b8e" configVersion="7eb2b4e2a7735a4f8114742d823bb6a100000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаЭлемента.Form" id="02735c1f-cf68-4ba5-ac47-b6f5d61a2b8e.0" configVersion="97378180ddaeaf47a740b42d61184a5500000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаЭлемента.Help" id="02735c1f-cf68-4ba5-ac47-b6f5d61a2b8e.1" configVersion="5975d6443d648641bfdaa583f9cc98ec00000000"/>
+		<Metadata name="Catalog.Валюты.Help" id="d5aacf85-14fb-42e6-90ca-d64bcbe74807.1" configVersion="1c05d1ea375dff4b92e9295d3d1178e600000000"/>
+		<Metadata name="Catalog.Валюты.ManagerModule" id="d5aacf85-14fb-42e6-90ca-d64bcbe74807.3" configVersion="0225611aa06feb43a2e536badd8cb12e00000000"/>
+		<Metadata name="Catalog.Валюты.ObjectModule" id="d5aacf85-14fb-42e6-90ca-d64bcbe74807.0" configVersion="d89d04cc7328224495e3ddd7507b711d00000000"/>
+		<Metadata name="Catalog.Валюты.Predefined" id="d5aacf85-14fb-42e6-90ca-d64bcbe74807.1c" configVersion="daefd59ab21ae94991362bc7e68de87500000000"/>
+		<Metadata name="Catalog.Т_OperationTypes" id="e5238104-8c48-4a3f-9fd1-6b87938b7097" configVersion="8346a36e4b06a049bcabcab03e6903fd00000000"/>
+		<Metadata name="Catalog.Т_OperationTypes.Help" id="e5238104-8c48-4a3f-9fd1-6b87938b7097.1" configVersion="7568eeab6461c34bb36daec720dc524c00000000"/>
+		<Metadata name="Catalog.Т_OperationTypes.ManagerModule" id="e5238104-8c48-4a3f-9fd1-6b87938b7097.3" configVersion="6daf746921e60e4b93ecf6dc2dab022c00000000"/>
+		<Metadata name="Catalog.Т_OperationTypes.ObjectModule" id="e5238104-8c48-4a3f-9fd1-6b87938b7097.0" configVersion="bd9e2f7b58376941bd10c376e2530a3400000000"/>
+		<Metadata name="Catalog.Т_OperationTypes.Predefined" id="e5238104-8c48-4a3f-9fd1-6b87938b7097.1c" configVersion="390786fcc3cdda46a49ddaf7995a633e00000000"/>
+		<Metadata name="Catalog.Т_БрокерскиеСчета" id="85172ca3-c81e-43d8-994a-70450f1c835a" configVersion="12e31303bb810b489063d82267af8b8800000000">
+			<Metadata name="Catalog.Т_БрокерскиеСчета.Attribute.status" id="47d8006f-261e-4e78-b639-ed3385376efb"/>
+			<Metadata name="Catalog.Т_БрокерскиеСчета.Attribute.type" id="70aa3c06-9a68-47e5-a229-48c793ba9dad"/>
+			<Metadata name="Catalog.Т_БрокерскиеСчета.Attribute.openedDate" id="9b117598-4091-49bc-b37e-90152bd65c4f"/>
+			<Metadata name="Catalog.Т_БрокерскиеСчета.Attribute.closedDate" id="a83b347f-d4c1-464b-809a-cb022d5bf5cc"/>
+			<Metadata name="Catalog.Т_БрокерскиеСчета.Attribute.accessLevel" id="aae569af-a12c-4adc-bae6-c5c7d40a6ce6"/>
+		</Metadata>
+		<Metadata name="Catalog.Т_БрокерскиеСчета.Help" id="85172ca3-c81e-43d8-994a-70450f1c835a.1" configVersion="3721c9e47f4bd2479bd8206ef2dfef1800000000"/>
+		<Metadata name="Catalog.Т_БрокерскиеСчета.ManagerModule" id="85172ca3-c81e-43d8-994a-70450f1c835a.3" configVersion="19473b55a73ffc4bbe4f9060367b903400000000"/>
+		<Metadata name="Catalog.Т_БрокерскиеСчета.ObjectModule" id="85172ca3-c81e-43d8-994a-70450f1c835a.0" configVersion="a9d20a2bd8618d41bc3fc770b89dcae600000000"/>
+		<Metadata name="Catalog.Т_БрокерскиеСчета.Predefined" id="85172ca3-c81e-43d8-994a-70450f1c835a.1c" configVersion="39eaa6f8f57a124a9923b9b53464c64f00000000"/>
+		<Metadata name="Catalog.Т_ЦенныеБумаги" id="1f31d57a-3d26-4b16-b82d-c370439a609d" configVersion="0dcc6d6c6423024083e7ece44129e8a800000000"/>
+		<Metadata name="Catalog.Т_ЦенныеБумаги.Help" id="1f31d57a-3d26-4b16-b82d-c370439a609d.1" configVersion="f012a2fc539a85488899b7afb9f894f100000000"/>
+		<Metadata name="Catalog.Т_ЦенныеБумаги.ManagerModule" id="1f31d57a-3d26-4b16-b82d-c370439a609d.3" configVersion="7e441f183741404a8a05e7268a59b4bc00000000"/>
+		<Metadata name="Catalog.Т_ЦенныеБумаги.ObjectModule" id="1f31d57a-3d26-4b16-b82d-c370439a609d.0" configVersion="98c41721ae96f74e8b56d399d8a1f6fc00000000"/>
+		<Metadata name="Catalog.Т_ЦенныеБумаги.Predefined" id="1f31d57a-3d26-4b16-b82d-c370439a609d.1c" configVersion="ad2d38b26ea26b49bf2f17ae1d12660300000000"/>
+		<Metadata name="Configuration.Тинькофф_API" id="bcb828e2-f061-40e1-be06-a28fb99a2e0b" configVersion="106ae27513d4c347a6643512a6eea25800000000"/>
+		<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету" id="3891ebcc-47de-4741-85c2-6a2297c55544" configVersion="3cd468a18c50f141a27121743540dcfd00000000">
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.positionUid" id="03a7d2a0-7436-4847-a9f0-4da5c6b26693"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.type" id="07173ad8-8bf0-48c7-9a40-6ade69aa8fc4"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.Валюта" id="0b386012-9630-4d2e-88a3-0d5bdb6dd82a"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.Сумма" id="26d1b568-ec3d-42b0-914d-13e90690715d"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.operationType" id="61ee579d-68d7-4c8e-bce8-606a66c5769a"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.parentOperationId" id="63daa1ef-dcfd-480e-a2ff-3feb2bbbdcb6"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.instrumentType" id="6e37f897-d927-4300-a9a0-558936e2af89"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.БрокерскийСчет" id="72ba4427-d908-4dfb-bc19-7c19941b24cb"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.figi" id="992b92cc-4fc6-4ddf-9f51-00526cb9e46d"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.РодительскаяОперация" id="9ac85cd1-8d7a-4351-8819-eedc3fade81c"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.assetUid" id="9ae3b7c4-66a3-4366-aa80-4455619b48aa"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.Цена" id="beb89981-0344-43c5-a3fb-660d41239788"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.quantityRest" id="ca1af898-be2a-4b5f-99fc-5da21642c458"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.state" id="eb8a0db7-11e4-4d46-8924-29b2ad05d549"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.Количество" id="f7803c1f-e018-4017-ad8e-9715141d5fef"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.ЦеннаяБумага" id="fa8c23a3-6edc-475d-bed4-8817c4e54fb7"/>
+			<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Attribute.instrumentUid" id="fdca48b0-bd30-47d8-a736-af0be0cd4af1"/>
+		</Metadata>
+		<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.Help" id="3891ebcc-47de-4741-85c2-6a2297c55544.1" configVersion="98bde42445bb7c42b25a2bbea919561a00000000"/>
+		<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.ManagerModule" id="3891ebcc-47de-4741-85c2-6a2297c55544.2" configVersion="945c098a21fcb54d8cf668e99feefd7600000000"/>
+		<Metadata name="Document.Т_ОперацияПоБрокерскомуСчету.ObjectModule" id="3891ebcc-47de-4741-85c2-6a2297c55544.0" configVersion="7b15f44427077347b95b0e40b08716cb00000000"/>
+		<Metadata name="InformationRegister.Т_СоответствиеВалют" id="5512b54c-d6df-4ecc-9148-0bed0a804486" configVersion="dd84c4f291256d4aa1819a073a33b2ee00000000">
+			<Metadata name="InformationRegister.Т_СоответствиеВалют.Attribute.name" id="52551bb9-851c-4d9e-be89-5dd7314fcb80"/>
+			<Metadata name="InformationRegister.Т_СоответствиеВалют.Dimension.currency" id="a4b37660-8feb-4c41-9636-aea148193e2a"/>
+			<Metadata name="InformationRegister.Т_СоответствиеВалют.Resource.Валюта" id="f5c56233-353f-44a0-843e-f14eea14f934"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Т_СоответствиеВалют.Help" id="5512b54c-d6df-4ecc-9148-0bed0a804486.0" configVersion="d04dc7e322767843822231a3bf3dd93700000000"/>
+		<Metadata name="InformationRegister.Т_СоответствиеВалют.ManagerModule" id="5512b54c-d6df-4ecc-9148-0bed0a804486.2" configVersion="aa6014352769d541862e4e1e8c640ef200000000"/>
+		<Metadata name="InformationRegister.Т_СоответствиеВалют.RecordSetModule" id="5512b54c-d6df-4ecc-9148-0bed0a804486.1" configVersion="38927e11b70b424fa4bb6998002f1d7100000000"/>
+		<Metadata name="Language.Русский" id="a7132243-de8c-48da-83f8-36fa34db0593" configVersion="664a1c3400d8c14e9e728d2ffd5037b500000000"/>
+		<Metadata name="Role.Т_ОсновнаяРоль" id="65fe5c9b-af21-4970-bff8-767582a47f32" configVersion="d2f8f5c86b347444b468e119b061c8d200000000"/>
+		<Metadata name="Role.Т_ОсновнаяРоль.Rights" id="65fe5c9b-af21-4970-bff8-767582a47f32.0" configVersion="5fe87f7e755ca34bbb8589ce7976ebe300000000"/>
+		<Metadata name="Subsystem.Тинькофф" id="d4fe099d-e730-4e6a-a720-f7fb5d655eea" configVersion="fcf2a99ff594214793c304bbd8537d1e00000000"/>
+		<Metadata name="Subsystem.Тинькофф.CommandInterface" id="d4fe099d-e730-4e6a-a720-f7fb5d655eea.1" configVersion="456e4049a0e3b845ae776f0717c9667f00000000"/>
+		<Metadata name="Subsystem.Тинькофф.Help" id="d4fe099d-e730-4e6a-a720-f7fb5d655eea.0" configVersion="d2836c86149b5240b96cb154e3a6ac3800000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
